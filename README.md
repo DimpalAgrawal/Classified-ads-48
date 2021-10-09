@@ -22,9 +22,9 @@ In **Classified-ads-48** however (this repository), users can post in the follow
 
 - Donations (main section of the website)
 - Skills 
-- Articles: DIY, How-Tos, passions, passtimes and hobbies
+- Articles: DIY, How-Tos, passions, pastimes and hobbies
 
-and the map that I chose is *Algeria*. 
+and the map that I choose is *Algeria*. 
 
 The purpose of this project is to let forkers implement new sections and offer the wep-app for other geo-locations.
 
@@ -138,7 +138,7 @@ GOOGLE_FONT_API={Google font API key}
 --------
 ## Classified-ads-48 for *Algeria* use case
 
-I want to build an open annoucements platform in *Algeria* (Lack of an online serious posting platform. I feel Facebook and others alone are so diverse but a separate specialized platform with a map can be a good case).
+I want to build an open announcements platform in *Algeria* (Lack of an online serious posting platform. I feel Facebook and others alone are so diverse but a separate specialized platform with a map can be a good case).
 
 ## Captures
 
